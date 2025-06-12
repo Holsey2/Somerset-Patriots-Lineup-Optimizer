@@ -4,7 +4,9 @@ Optimizing the Somerset Patriots lineup for the 2025 regular season by projected
 **Overview**
 
 This report analyzes hitting performance via on-base percentage and slugging percentage versus starting pitchers over 56 games played by the Somerset Patriots in the 2025 regular season. The analysis completed in this report aims to determine optimal batting lineups versus left-handed and right-handed starting pitchers as well as organize hitting performance against scout-graded pitch types. The two applications created in this analysis are available online via the below links at Shinyapps.io: 
+
 https://holsey2.shinyapps.io/Somerset_Patriots_Optimal_Lineups/
+
 https://holsey2.shinyapps.io/Somerset_Patriots_Hitting_Pitch_Types/
 
 **Background**
@@ -17,17 +19,11 @@ The projected average runs scored for the Optimal Lineup against left-handed sta
 
 **Data Sources**
 
-MiLB.com game logs
-Baseball Savant scouting grades from player profiles
-Fangraphs.com prospects report
+MiLB.com game logs, Baseball Savant scouting grades from player profiles, Fangraphs.com prospects report
 
 **Metrics Analyzed**
 
-Plate Appearances (PA)
-On-base Percentage (OBP)
-Slugging Percentage (SLG)
-Earned Runs (ER)
-
+Plate Appearances (PA), On-base Percentage (OBP), Slugging Percentage (SLG), Earned Runs (ER)
 
 **Model Development**
 
